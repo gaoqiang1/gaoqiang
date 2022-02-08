@@ -1,3 +1,8 @@
 # gaoqiang
- This is git testing!
+
+ --Beginning--
+
+This is git testing!
+
+No talking anymore!  Show me the code~~
 --Ending--
